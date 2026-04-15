@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- 首页 -->
+  <url>
+    <loc>https://mzc1718.xyz/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 电影页面 -->
+  <url>
+    <loc>https://mzc1718.xyz/category/movie.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.icon-icons.com/38/PNG/512/retrotv_5520.png</image:loc>
+      <image:caption>免费高清电影在线观看 | Watch Free HD Movies Online</image:caption>
+      <image:title>LibreTV - Movies</image:title>
+    </image:image>
+  </url>
+
+  <!-- 电视剧页面 -->
+  <url>
+    <loc>https://mzc1718.xyz/category/tv.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.icon-icons.com/38/PNG/512/retrotv_5520.png</image:loc>
+      <image:caption>热播电视剧在线观看 | Watch Popular TV Series Online</image:caption>
+      <image:title>LibreTV - TV Series</image:title>
+    </image:image>
+  </url>
+
+  <!-- 动漫页面 -->
+  <url>
+    <loc>https://mzc1718.xyz/category/anime.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.icon-icons.com/38/PNG/512/retrotv_5520.png</image:loc>
+      <image:caption>高清动漫在线观看 | Watch HD Anime Online</image:caption>
+      <image:title>LibreTV - Anime</image:title>
+    </image:image>
+  </url>
+
+  <!-- 综艺页面 -->
+  <url>
+    <loc>https://mzc1718.xyz/category/variety.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.icon-icons.com/38/PNG/512/retrotv_5520.png</image:loc>
+      <image:caption>热门综艺在线观看 | Watch Popular Variety Shows Online</image:caption>
+      <image:title>LibreTV - Variety Shows</image:title>
+    </image:image>
+  </url>
+
+  <!-- 纪录片页面 -->
+  <url>
+    <loc>https://mzc1718.xyz/category/documentary.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://images.icon-icons.com/38/PNG/512/retrotv_5520.png</image:loc>
+      <image:caption>经典纪录片在线观看 | Watch Classic Documentaries Online</image:caption>
+      <image:title>LibreTV - Documentaries</image:title>
+    </image:image>
+  </url>
+</urlset>
+

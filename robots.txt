@@ -1,0 +1,10 @@
+# 允许所有爬虫访问网站核心内容
+User-agent: *
+Allow: /
+
+# 禁止爬虫抓取静态资源文件夹（可选，不影响核心抓取）
+Disallow: /js/
+Disallow: /css/
+
+# 关键：指向当前域名的站点地图，解决核心抓取问题
+Sitemap: https://mzc1718.xyz/sitemap.xml
